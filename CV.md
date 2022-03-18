@@ -1,8 +1,6 @@
 # Pavel Tsybulko
 ## Junior Front-end developer
 
-***
-
 ### Contact information:
 
 **Phone:** +375299418088
