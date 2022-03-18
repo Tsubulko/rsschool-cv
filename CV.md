@@ -7,7 +7,7 @@
 
 **E-mail:** pashatsubulko@gmail.com
 
-**Telegram:** @Pavel_Tsubulko
+**Telegram:** @Pavel_Tsybulko
 
 ***
 
