@@ -1,9 +1,9 @@
 # Pavel Tsubulko
 ## Junior Front-end developer
 
-### Contact information:
-
 ***
+
+### Contact information:
 
 **Phone:** +375299418088
 
@@ -11,13 +11,13 @@
 
 **Telegram:** @Pavel_Tsubulko
 
+***
+
 ### About myself:
 
 ***
 
 ### Skills and Proficiency:
-
-***
 
 * Git, GitHub
 * HTML5, CSS3
@@ -25,6 +25,8 @@
 * C++ Basics
 * VS Code
 * Figma
+
+***
 
 ### Code exaple:
 **"Handshake problem" KATA fron Codewars:** Johnny is a farmer and he annually holds a beet farmers convention "Drop the beet".
@@ -48,23 +50,22 @@ function getParticipants(handshakes)
 } 
 ```
 
+***
 
 ### Courses:
-
-***
 
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 * [Code-Basics (HTML, CSS, JS)](https://ru.code-basics.com/)
 
-### Project:
-
 ***
+
+### Project:
 
 [CV](https://github.com/Tsubulko/rsschool-cv)
 
-### Languages:
-
 ***
+
+### Languages:
 
 * Russian - Native 
 * English - Intermediate (according to the online test at [EFSET](www.efset.org))
