@@ -1,4 +1,4 @@
-# Pavel Tsubulko
+# Pavel Tsybulko
 ## Junior Front-end developer
 
 ***
