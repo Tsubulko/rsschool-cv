@@ -13,6 +13,15 @@
 
 ### About myself:
 
+While still at school, I began to be interested in programming. One of our teachers made an elective to learn the basics of HTML.  It didn't last long, but it was then that I decided that I wanted to connect my future profession with programming.
+
+I am began my working life in a number of occupations. For example: was a table tennis coach, and also  opened my own small online clothing store.
+Then it was time to go to university. By that time, my older brother, sorting through different professions, came to the IT field. Without hesitation, I chose BSUIR.
+
+I am currently in my 2nd year of study. The university itself has a rather outdated curriculum, so I began to look for some courses for myself.My friend invited me to these courses, it is more fun to study together and learn something new.
+
+I am quite assiduous and grasp quickly, so I think that I will be able to become a good specialist in this field.
+
 ***
 
 ### Skills and Proficiency:
