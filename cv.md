@@ -1,5 +1,4 @@
 # Pavel Tsybulka
-![](F:\Projects\rs_school\rsschool-cv\images\IMG_20220526_153557.jpg)
 ## Junior Front-end developer
 
 ### Contact information:
