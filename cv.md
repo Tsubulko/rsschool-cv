@@ -71,7 +71,6 @@ function getParticipants(handshakes)
 ### Project:
 
 * [CV](https://github.com/Tsubulko/rsschool-cv)
-
 * [Shelter](https://rolling-scopes-school.github.io/tsubulko-JSFE2022Q1/shelter/pages/main/) (in progress)
 
 ***
