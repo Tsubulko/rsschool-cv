@@ -1,5 +1,5 @@
 # Pavel Tsybulka 
-![](../../rs_school/rsschool-cv/images/imgonline-com-ua-Resize-NSgjD6aCrOvoE2.png)
+![](https://sun9-22.userapi.com/s/v1/ig2/SkjC98lCf7XGNO6CD3zphpMFWsJYa2oAdAx59uS9NVKF0EOvWuuNCLpxKH3yEiUCVyd__73_PrliyILVi93Fblfn.jpg?size=178x200&quality=95&type=album)
 ## Junior Front-end developer
 
 ### Contact information:
