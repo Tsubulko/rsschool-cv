@@ -79,4 +79,5 @@ function getParticipants(handshakes)
 ### Languages:
 
 * Russian - Native 
-* English - Intermediate (according to the online test at [EFSET](www.efset.org))
+* English -  A2/B1
+
