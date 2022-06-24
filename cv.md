@@ -32,8 +32,6 @@ I am quite assiduous and grasp quickly, so I think that I will be able to become
 * JavaScript Basics
 * C++ Basics
 * Visual Basic for Applications (VBA)
-* VS Code
-* Figma
 
 ***
 
