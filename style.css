@@ -204,7 +204,14 @@ p {
     font-size: 18px;
     width: 20px;
 }
-
+.projects ul li {
+    list-style: none;
+    font-weight: 500;
+}
+.projects ul li a{
+    text-decoration: none;
+    color: #333;
+}
 @media (max-width: 1000px) {
     .container {
         margin: 10px;
