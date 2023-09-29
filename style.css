@@ -212,6 +212,9 @@ p {
     text-decoration: none;
     color: #333;
 }
+.linkSt {
+    text-decoration: none;
+}
 @media (max-width: 1000px) {
     .container {
         margin: 10px;
