@@ -23,7 +23,7 @@
 ***
 
 ### About myself: 
-*Last year I graduated from Belarusian State Umiversity of Informatics and Radioelectronics, my specialization is “Automated Information Processing Systems”. While studying at the university, I became interested in the Frontend direction and decided to deepen my knowledge in this area. As the result I continue improving my skills by courses and having some internships.*
+*Last year I graduated from Belarusian State University of Informatics and Radioelectronics, my specialization is “Automated Information Processing Systems”. While studying at the university, I became interested in the Frontend direction and decided to deepen my knowledge in this area. As the result I continue improving my skills by courses and having some internships.*
 
 ### Skills and Proficiency:
 
