@@ -18,7 +18,7 @@
 
 ## Education: 
 
-*Belarusian State Umiversity of Informatics and Radioelectronics (completed)*
+*Belarusian State University of Informatics and Radioelectronics (completed)*
 
 ***
 
