@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>My CV</title>
+    </head>
+    <body>
+        <nav id="navbar" class="navigation mb">
+            <ul id="navList">
+                <li><a href="#contacts">Contacts</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#codeEx">Code</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#courses">Courses</a></li>
+                <li><a href="#lngs">Languages</a></li>
+            </ul>
+        </nav>
+        <div class="wrapper">
+            <header class="title mb">
+                <div class="headerTitleContainer">
+                    <h1>
+                        Pavel Tsybulka<br>
+                        Junior Frontend Developer
+                    </h1>
+                    <div class="imgBx">
+                        <img src="./assets/myPhoto.jpg" alt="img">
+                    </div>
+                </div>
+            </header>
+            <main class="container">
+                <div class="contacts sectionBlock mb" id="contacts">
+                    <h2 class="mb">Contact information:</h2>
+                    <ul>
+                        <li>Phone: +375299418088</li>
+                        <li>E-mail: pashatsubulko@gmail.com</li>
+                        <li>Telegram: @Pavel_Tsybulko</li>
+                    </ul>
+                </div>
+                <div class="education sectionBlock mb">
+                    <h2 class="mb">Education:</h2>
+                    <p>Belarusian State Umiversity of Informatics and
+                        Radioelectronics (completed)</p>
+                </div>
+                <div class="aboutBlock sectionBlock mb" id="about">
+                    <h2 class="mb">About myself:</h2>
+                    <p>
+                        Last year I graduated from Belarusian State Umiversity of Informatics and
+                        Radioelectronics, my specialization is “Automated Information Processing
+                        Systems”. While studying at the university, I became interested in the
+                        Frontend direction and decided to deepen my knowledge in this area. As
+                        the result I continue improving my skills by courses and having some
+                        internships.
+                    </p>
+                </div>
+                <div class="skills sectionBlock mb" id="skills">
+                    <h2 class="mb">Skills and Proficiency:</h2>
+                    <ul>
+                        <li>Git, GitHub</li>
+                        <li>HTML5, CSS3</li>
+                        <li>JavaScript Basics</li>
+                        <li>C++ Basics</li>
+                        <li>Visual Basic for Applications (VBA)</li>
+                    </ul>
+                </div>
+                <div class="codeExample sectionBlock mb" id="codeEx">
+                    <h2 class="mb">Code example:</h2>
+                    <p>
+                        "Handshake problem" KATA fron Codewars: Johnny is a
+                        farmer and he annually holds a beet farmers convention
+                        "Drop the beet". Every year he takes photos of farmers
+                        handshaking. Johnny knows that no two farmers handshake
+                        more than once. He also knows that some of the possible
+                        handshake combinations may not happen. However, Johnny
+                        would like to know the minimal amount of people that
+                        participated this year just by counting all the
+                        handshakes. Help Johnny by writing a function, that
+                        takes the amount of handshakes and returns the minimal
+                        amount of people needed to perform these handshakes (a
+                        pair of farmers handshake only once).
+                    </p>
+                    <pre>
+                    <code>
+                    function getParticipants(handshakes)
+                    {
+                        let count = 1, hsh = 1;
+                        while (hsh &lt;=  handshakes)
+                        {
+                            count += 1;
+                            hsh += ((count - 1));
+                        }
+                        return  count;
+                    }
+                    </code>
+                    </pre>
+                </div>
+                <div class="projects sectionBlock mb" id="projects">
+                    <h2>Projects:</h2>
+                    <p class="discription mb">(you can click and follow the link)</p>
+                    <ul class="projects-list">
+                        <li><a href="https://tsubulko.github.io/Animated-Heart/" target="_blank">Animated Heart</a></li>
+                        <li><a href="https://tsubulko.github.io/Chess-task/" target="_blank">Chess Task</a></li>
+                        <li><a href="https://tsubulko.github.io/pass-generator/" target="_blank">Password Generator</a></li>
+                    </ul>
+                </div>
+                <div class="courses sectionBlock mb" id="courses">
+                    <h2>Courses:</h2>
+                    <p class="discription mb">(you can click and follow the link)</p>
+                    <ul>
+                        <li>
+                            <a href="https://rs.school/courses/javascript-preschool-ru" target="_blank">
+                                RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://ru.code-basics.com/" target="_blank">
+                                [Code-Basics (HTML, CSS, JS)]
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="lngs sectionBlock mb" id="lngs">
+                    <h2 class="mb">Languages:</h2>
+                    <ul>
+                        <li>Russian - Native</li>
+                        <li>English - A2/B1</li>
+                    </ul>
+                </div>
+            </main>
+            <footer class="sectionBlock">
+                <div class="footerContent">
+                    <a  href="https://rs.school/courses/javascript-preschool-ru" class="footerLogo" target="_blank">
+                        <img src="./assets/rs-school-logo.svg" alt="Logo">
+                    </a>
+                    <p class="footer-text">2025</p>
+                    <a href="https://github.com/Tsubulko" target="_blank">My GitHub</a>
+                </div>
+            </footer>
+        </div>
+    </body>
+</html>
